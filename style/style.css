@@ -96,7 +96,15 @@ a:visited {
     color: #0000FF;
 }
 
-p, h1 {
-    font-family: "Roboto", sans-serif; 
+p, h1, ul {
+    font-family: "Roboto", sans-serif;  
+}
+
+.Education ul {
+    list-style: none;
+
+}
+.Education li {
+    padding-top: 5px;
 }
 
