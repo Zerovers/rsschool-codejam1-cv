@@ -37,12 +37,50 @@ div.contact_info {
 
 section.image {
     display: inline-block;
-    
     margin-left: 392px;
 }
-
-
 
 .Summary p {
     font-size: 16px;
 }
+
+section.Summary {
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    padding-bottom: 20px;
+}
+
+section.Skills {
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    padding-bottom: 20px;
+}
+
+div.skill_name {
+    display: inline-block;
+    
+}
+
+div.skill_info {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+section.Experience {
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    padding-bottom: 20px;
+}
+
+section.Education {
+    padding-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    
+}
+
