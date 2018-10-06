@@ -1,0 +1,108 @@
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  src: 
+    local("Roboto-regular"),
+    url("fonts/roboto-v18-latin-regular.woff") format("woff");
+}
+
+body {
+  margin: auto;
+  width: 1024px;
+}
+
+header {
+  display: flex;
+  border-bottom-color: black;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding-bottom: 20px;
+  margin-top:5px;
+}
+
+header h1 {
+  font-size: 30px;
+}
+
+header p {
+  font-size: 16px;
+}
+
+section.info {
+  display: inline-block;
+  width: 500px;
+}
+
+div.contact {
+  display: inline-block;
+}
+
+div.contact_info {
+  display: inline-block;
+  margin-left: 100px;
+}
+
+section.image {
+  display: inline-block;
+  margin-left: 300px;
+}
+
+.Summary p {
+  font-size: 16px;
+}
+
+section.Summary {
+  border-bottom-color: black;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding-bottom: 20px;
+}
+
+section.Skills {
+  border-bottom-color: black;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding-bottom: 20px;
+}
+
+div.Skill_name {
+  display: inline-block;
+    
+}
+
+div.Skill_info {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+section.Experience {
+  border-bottom-color: black;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  padding-bottom: 20px;
+}
+
+section.Education {
+  padding-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #0000FF;
+}
+
+p, h1, ul {
+  font-family: "Roboto", sans-serif;  
+}
+
+.Education ul {
+  list-style: none;
+
+}
+.Education li {
+  padding-top: 5px;
+}
+
