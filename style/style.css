@@ -81,6 +81,9 @@ section.Education {
 
 a {
     text-decoration: none;
-    
+
+}
+a:visited {
+    color: #0000FF;
 }
 
