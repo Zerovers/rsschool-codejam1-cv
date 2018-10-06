@@ -13,6 +13,7 @@ header {
     padding-bottom: 20px;
     margin-top:5px;
 }
+
 header h1 {
     font-size: 30px;
 }
@@ -40,3 +41,8 @@ section.image {
     margin-left: 392px;
 }
 
+
+
+.Summary p {
+    font-size: 16px;
+}
