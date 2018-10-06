@@ -1,0 +1,42 @@
+body {
+    margin: auto;
+    width: 1024px;
+    
+
+}
+
+header {
+    display: flex;
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    padding-bottom: 20px;
+    margin-top:5px;
+}
+header h1 {
+    font-size: 30px;
+}
+
+header p {
+    font-size: 16px;
+}
+
+section.info {
+    display: inline-block;
+}
+
+div.contact {
+    display: inline-block;
+}
+
+div.contact_info {
+    display: inline-block;
+    margin-left: 100px;
+}
+
+section.image {
+    display: inline-block;
+    
+    margin-left: 392px;
+}
+
