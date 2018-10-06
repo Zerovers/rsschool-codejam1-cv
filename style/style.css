@@ -32,6 +32,7 @@ header p {
 
 section.info {
     display: inline-block;
+    width: 500px;
 }
 
 div.contact {
@@ -45,7 +46,7 @@ div.contact_info {
 
 section.image {
     display: inline-block;
-    margin-left: 392px;
+    margin-left: 300px;
 }
 
 .Summary p {
